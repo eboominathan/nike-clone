@@ -44,7 +44,7 @@ import { useState } from "react";
         ))}
       </div>
     </div>
-    <div className="flex relative flex-1 justify-center items-center
+    <div className="flex relative flex-l justify-center items-center
     xl:min-h-screen max-xl:py-40 bg-hero bg-cover bg-center">
       <img 
       src={bigShoeImg}
